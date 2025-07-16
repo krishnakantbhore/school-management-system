@@ -13,6 +13,7 @@ import (
  
 func main() {
 	router:=routers.Router()
+	
 
 	sqlconnect.SqlConnector()
 	err:= godotenv.Load();

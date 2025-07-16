@@ -1,0 +1,162 @@
+[
+  {
+    "firstName": "Amit",
+    "lastName": "Verma",
+    "email": "amit.verma@example.com",
+    "role": "admin",
+    "userName": "amitv",
+    "password": "passAmit123"
+  },
+  {
+    "firstName": "Sneha",
+    "lastName": "Patil",
+    "email": "sneha.patil@example.com",
+    "role": "admin",
+    "userName": "snehaP",
+    "password": "sneha@123"
+  },
+  {
+    "firstName": "Ravi",
+    "lastName": "Singh",
+    "email": "ravi.singh@example.com",
+    "role": "admin",
+    "userName": "ravis",
+    "password": "raviPass456"
+  },
+  {
+    "firstName": "Pooja",
+    "lastName": "Kumar",
+    "email": "pooja.k@example.com",
+    "role": "admin",
+    "userName": "poojak",
+    "password": "poojaPwd!"
+  },
+  {
+    "firstName": "Vikram",
+    "lastName": "Joshi",
+    "email": "vikram.j@example.com",
+    "role": "admin",
+    "userName": "vikj",
+    "password": "vik@321"
+  },
+  {
+    "firstName": "Neha",
+    "lastName": "Deshmukh",
+    "email": "neha.d@example.com",
+    "role": "admin",
+    "userName": "nehad",
+    "password": "nehapass"
+  },
+  {
+    "firstName": "Arjun",
+    "lastName": "Mehta",
+    "email": "arjun.mehta@example.com",
+    "role": "admin",
+    "userName": "arjunM",
+    "password": "arjun321"
+  },
+  {
+    "firstName": "Kajal",
+    "lastName": "Rane",
+    "email": "kajal.r@example.com",
+    "role": "admin",
+    "userName": "kajalr",
+    "password": "kajalPwd456"
+  },
+  {
+    "firstName": "Rohit",
+    "lastName": "Sharma",
+    "email": "rohit.sharma@example.com",
+    "role": "admin",
+    "userName": "rohits",
+    "password": "rohit123"
+  },
+  {
+    "firstName": "Meena",
+    "lastName": "Kale",
+    "email": "meena.k@example.com",
+    "role": "admin",
+    "userName": "meenak",
+    "password": "meena@789"
+  },
+  {
+    "firstName": "Nikhil",
+    "lastName": "Borkar",
+    "email": "nikhil.b@example.com",
+    "role": "admin",
+    "userName": "nikhilb",
+    "password": "nikhilPass"
+  },
+  {
+    "firstName": "Divya",
+    "lastName": "Shetty",
+    "email": "divya.s@example.com",
+    "role": "admin",
+    "userName": "divyas",
+    "password": "divyaPwd"
+  },
+  {
+    "firstName": "Suresh",
+    "lastName": "Tiwari",
+    "email": "suresh.t@example.com",
+    "role": "admin",
+    "userName": "suresht",
+    "password": "suresh@12"
+  },
+  {
+    "firstName": "Anjali",
+    "lastName": "Dubey",
+    "email": "anjali.d@example.com",
+    "role": "admin",
+    "userName": "anjalid",
+    "password": "anjaliSecure"
+  },
+  {
+    "firstName": "Harsh",
+    "lastName": "Kapoor",
+    "email": "harsh.k@example.com",
+    "role": "admin",
+    "userName": "harshk",
+    "password": "harshpass123"
+  },
+  {
+    "firstName": "Riya",
+    "lastName": "Naik",
+    "email": "riya.n@example.com",
+    "role": "user",
+    "userName": "riyan",
+    "password": "riya@321"
+  },
+  {
+    "firstName": "Tanmay",
+    "lastName": "Rathi",
+    "email": "tanmay.r@example.com",
+    "role": "user",
+    "userName": "tanmayr",
+    "password": "tanmay789"
+  },
+  {
+    "firstName": "Ayesha",
+    "lastName": "Khan",
+    "email": "ayesha.k@example.com",
+    "role": "user",
+    "userName": "ayeshak",
+    "password": "ayesha123"
+  },
+  {
+    "firstName": "Dev",
+    "lastName": "Rawat",
+    "email": "dev.rawat@example.com",
+    "role": "moderator",
+    "userName": "devr",
+    "password": "devPwd"
+  },
+  {
+    "firstName": "Jyoti",
+    "lastName": "Kulkarni",
+    "email": "jyoti.k@example.com",
+    "role": "moderator",
+    "userName": "jyotik",
+    "password": "jyotiPass"
+  }
+]
